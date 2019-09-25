@@ -1,0 +1,8 @@
+usercheck
+u_password1 u_password1
+passwordcheck1
+passwordcheck2
+u_tel verycode addresscheck 
+telcheck
+mailcheck
+verycodecheck
